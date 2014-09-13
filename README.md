@@ -9,7 +9,7 @@ ArcGIS Map package file can be found from the below link for the operational lay
 
 http://www.arcgis.com/home/item.html?id=c8d71ae4548543b58cbc6434ab47bae8
 
-Publish the above package in ArcGIS for Server 10.2.*
+Publish the above package in ArcGIS for Server 10.2.2
 
 Remember to update the URL variable in the javascript file.
 
