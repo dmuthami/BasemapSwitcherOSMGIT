@@ -19,7 +19,7 @@ require([
     parser.parse();
 
     //----Initialize variables 
-    app.center = [16.65, -20.475];
+    app.center = [16.653, -20.464];
     app.zoom = 15;
     //--end of varibale intiliatization
 
